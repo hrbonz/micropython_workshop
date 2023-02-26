@@ -1,0 +1,24 @@
+####################
+Micropython workshop
+####################
+
+Workshop to introduce microcontroller programming and basic IoT concepts.
+
+Microcontroller: ESP32-C3
+
+Branches
+========
+
+XXX
+
+License
+=======
+
+The code for this workshop is published under a BSD 3-clause license, see the
+LICENSE file distributed with the project.
+
+References
+==========
+
+* `MicroPython documentation <git@github.com:hrbonz/micropython_workshop.git>`_
+* `MicroPython Quick reference for the ESP32 <https://docs.micropython.org/en/latest/esp32/quickref.html>`_
