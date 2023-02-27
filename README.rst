@@ -17,7 +17,9 @@ Folders
 3_led_blink
     Use timers to make the board LED blink.
 4_led_on_key_timer
-    Turn the LED on when pressing the board "key" button
+    Turn the LED on when pressing the board "key" button.
+5_led_on_key_irq
+    Do it again.
 
 License
 =======
