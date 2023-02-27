@@ -16,6 +16,8 @@ Folders
     Simple pin control (up and down status).
 3_led_blink
     Use timers to make the board LED blink.
+4_led_on_key_timer
+    Turn the LED on when pressing the board "key" button
 
 License
 =======
