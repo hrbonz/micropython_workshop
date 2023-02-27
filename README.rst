@@ -10,8 +10,10 @@ Folders
 =======
 
 1_basic_info
-     Explore the board, basic micropython mechanisms and running code on the
-     microcontroller.
+    Explore the board, basic micropython mechanisms and running code on the
+    microcontroller.
+2_simple_pin_output
+    Simple pin control (up and down status)
 
 License
 =======
