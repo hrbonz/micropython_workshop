@@ -13,7 +13,9 @@ Folders
     Explore the board, basic micropython mechanisms and running code on the
     microcontroller.
 2_simple_pin_output
-    Simple pin control (up and down status)
+    Simple pin control (up and down status).
+3_led_blink
+    Use timers to make the board LED blink.
 
 License
 =======
