@@ -6,10 +6,12 @@ Workshop to introduce microcontroller programming and basic IoT concepts.
 
 Microcontroller: ESP32-C3
 
-Branches
-========
+Folders
+=======
 
-XXX
+1_basic_info
+     Explore the board, basic micropython mechanisms and running code on the
+     microcontroller.
 
 License
 =======
