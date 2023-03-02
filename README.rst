@@ -26,6 +26,8 @@ Folders
     Display tiny things.
 8_temp_hu_sensor
     Get temperature & humidity from two onboard sensors.
+9_relay_on_off
+    Close & open a relay.
 
 License
 =======
