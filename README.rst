@@ -20,6 +20,8 @@ Folders
     Turn the LED on when pressing the board "key" button.
 5_led_on_key_irq
     Do it again.
+6_buzz_pwm
+    Make some noise wityh on-board buzzer
 
 License
 =======
