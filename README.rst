@@ -22,6 +22,8 @@ Folders
     Do it again.
 6_buzz_pwm
     Make some noise wityh on-board buzzer
+7_oled_display
+    display tiny things
 
 License
 =======
