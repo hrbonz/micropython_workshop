@@ -21,9 +21,11 @@ Folders
 5_led_on_key_irq
     Do it again.
 6_buzz_pwm
-    Make some noise wityh on-board buzzer
+    Make some noise wityh on-board buzzer.
 7_oled_display
-    display tiny things
+    Display tiny things.
+8_temp_hu_sensor
+    Get temperature & humidity from two onboard sensors.
 
 License
 =======
