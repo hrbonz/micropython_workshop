@@ -28,6 +28,8 @@ Folders
     Get temperature & humidity from two onboard sensors.
 9_relay_on_off
     Close & open a relay.
+10_multi_color_led
+    Go through R/G/B in a loop, stop with ctrl-C.
 
 License
 =======
