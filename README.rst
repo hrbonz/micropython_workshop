@@ -9,6 +9,9 @@ Microcontroller: ESP32-C3
 Folders
 =======
 
+Demos
+-----
+
 1_basic_info
     Explore the board, basic micropython mechanisms and running code on the
     microcontroller.
@@ -30,6 +33,27 @@ Folders
     Close & open a relay.
 10_multi_color_led
     Go through R/G/B in a loop, stop with ctrl-C.
+11-mqtt_hello_world
+    Hello world through MQTT
+
+Modules
+-------
+
+``ssd1306.py``
+    OLED display driver for I2C
+``mqtt.py``
+    `umqtt.simple <https://github.com/micropython/micropython-lib/blob/master/micropython/umqtt.simple/umqtt/simple.py>`_ MQTT module.
+
+Exercises
+---------
+
+Solutions to exercises.
+
+Bonus
+-----
+
+Bonus scripts for LED rainbow and PM2.5 sensor.
+
 
 License
 =======
@@ -40,5 +64,6 @@ LICENSE file distributed with the project.
 References
 ==========
 
-* `MicroPython documentation <git@github.com:hrbonz/micropython_workshop.git>`_
+* `MicroPython: An Intro to Programming Hardware in Python <https://realpython.com/micropython/>`_
+* `MicroPython documentation <https://docs.micropython.org/en/latest/index.html>`_
 * `MicroPython Quick reference for the ESP32 <https://docs.micropython.org/en/latest/esp32/quickref.html>`_
