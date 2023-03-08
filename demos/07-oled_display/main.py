@@ -1,4 +1,4 @@
-"""
+"""Upload modeul/ssd1306.py to the board
 """
 from machine import Pin, SoftI2C
 
